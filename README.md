@@ -42,7 +42,7 @@ src/routes/      # Páginas (TanStack Router)
 src/styles.css   # Design system / Tailwind
 ```
 
-Checkout da oferta: link Kiwify configurado em `src/routes/index.tsx`.
+Checkout da oferta: link Cakto configurado em `src/routes/index.tsx`.
 
 ## Deploy
 

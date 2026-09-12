@@ -32,7 +32,7 @@ export const Route = createFileRoute("/")({
   component: Index,
 });
 
-const CHECKOUT = "https://pay.kiwify.com.br/xbFhPDB";
+const CHECKOUT = "https://pay.cakto.com.br/8rz7kik";
 
 const images = {
   capa: "/images/capa.png",
